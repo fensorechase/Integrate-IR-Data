@@ -1,4 +1,9 @@
 """
+Code Review
+#great function and variable names, very good comments throughout
+#very explanatory, appropriate use of for loops for more condensed code
+#good structure with defined functions first, imports at top, and calls towards the end
+
 7-1-20
 @author Chase Fensore
 
@@ -15,7 +20,6 @@ import os
 import glob
 import csv
 import re
-
 
 def main():
     # Folder that holds IR files
